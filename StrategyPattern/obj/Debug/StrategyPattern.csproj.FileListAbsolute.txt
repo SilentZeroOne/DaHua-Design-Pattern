@@ -1,0 +1,9 @@
+E:\代码学习\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+E:\代码学习\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\代码学习\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\代码学习\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+E:\代码学习\StrategyPattern\obj\Debug\StrategyPattern.Form1.resources
+E:\代码学习\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+E:\代码学习\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.cache
+E:\代码学习\StrategyPattern\obj\Debug\StrategyPattern.exe
+E:\代码学习\StrategyPattern\obj\Debug\StrategyPattern.pdb
