@@ -1,0 +1,11 @@
+E:\大话设计模式——具体实现代码\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+E:\大话设计模式——具体实现代码\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+E:\大话设计模式——具体实现代码\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+E:\大话设计模式——具体实现代码\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+E:\大话设计模式——具体实现代码\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+E:\大话设计模式——具体实现代码\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+E:\大话设计模式——具体实现代码\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+E:\大话设计模式——具体实现代码\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+E:\大话设计模式——具体实现代码\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+E:\大话设计模式——具体实现代码\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
