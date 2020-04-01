@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\FacadePattern\bin\Debug\FacadePattern.exe.config
+E:\大话设计模式——具体实现代码\FacadePattern\bin\Debug\FacadePattern.exe
+E:\大话设计模式——具体实现代码\FacadePattern\bin\Debug\FacadePattern.pdb
+E:\大话设计模式——具体实现代码\FacadePattern\obj\Debug\FacadePattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\FacadePattern\obj\Debug\FacadePattern.exe
+E:\大话设计模式——具体实现代码\FacadePattern\obj\Debug\FacadePattern.pdb
