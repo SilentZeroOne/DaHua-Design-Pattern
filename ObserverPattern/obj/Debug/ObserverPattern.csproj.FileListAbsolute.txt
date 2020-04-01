@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+E:\大话设计模式——具体实现代码\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\大话设计模式——具体实现代码\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\大话设计模式——具体实现代码\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\ObserverPattern\obj\Debug\ObserverPattern.exe
+E:\大话设计模式——具体实现代码\ObserverPattern\obj\Debug\ObserverPattern.pdb
