@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\StatePattern\bin\Debug\StatePattern.exe.config
+E:\大话设计模式——具体实现代码\StatePattern\bin\Debug\StatePattern.exe
+E:\大话设计模式——具体实现代码\StatePattern\bin\Debug\StatePattern.pdb
+E:\大话设计模式——具体实现代码\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\StatePattern\obj\Debug\StatePattern.exe
+E:\大话设计模式——具体实现代码\StatePattern\obj\Debug\StatePattern.pdb
