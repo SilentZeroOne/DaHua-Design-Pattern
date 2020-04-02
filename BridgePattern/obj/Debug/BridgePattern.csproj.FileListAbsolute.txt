@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\BridgePattern\bin\Debug\BridgePattern.exe.config
+E:\大话设计模式——具体实现代码\BridgePattern\bin\Debug\BridgePattern.exe
+E:\大话设计模式——具体实现代码\BridgePattern\bin\Debug\BridgePattern.pdb
+E:\大话设计模式——具体实现代码\BridgePattern\obj\Debug\BridgePattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\BridgePattern\obj\Debug\BridgePattern.exe
+E:\大话设计模式——具体实现代码\BridgePattern\obj\Debug\BridgePattern.pdb
