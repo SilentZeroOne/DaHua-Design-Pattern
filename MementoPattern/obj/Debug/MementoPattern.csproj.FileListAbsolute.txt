@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\MementoPattern\bin\Debug\MementoPattern.exe.config
+E:\大话设计模式——具体实现代码\MementoPattern\bin\Debug\MementoPattern.exe
+E:\大话设计模式——具体实现代码\MementoPattern\bin\Debug\MementoPattern.pdb
+E:\大话设计模式——具体实现代码\MementoPattern\obj\Debug\MementoPattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\MementoPattern\obj\Debug\MementoPattern.exe
+E:\大话设计模式——具体实现代码\MementoPattern\obj\Debug\MementoPattern.pdb
