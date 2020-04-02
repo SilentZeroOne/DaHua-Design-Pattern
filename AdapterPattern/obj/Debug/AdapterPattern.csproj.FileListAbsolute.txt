@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+E:\大话设计模式——具体实现代码\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\大话设计模式——具体实现代码\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\大话设计模式——具体实现代码\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\大话设计模式——具体实现代码\AdapterPattern\obj\Debug\AdapterPattern.pdb
