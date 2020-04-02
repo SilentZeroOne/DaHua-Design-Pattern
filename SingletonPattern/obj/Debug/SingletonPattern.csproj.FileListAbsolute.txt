@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\大话设计模式——具体实现代码\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\大话设计模式——具体实现代码\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\大话设计模式——具体实现代码\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\大话设计模式——具体实现代码\SingletonPattern\obj\Debug\SingletonPattern.pdb
