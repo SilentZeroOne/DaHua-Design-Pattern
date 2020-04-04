@@ -1,0 +1,6 @@
+E:\大话设计模式——具体实现代码\FlyweightPattern\obj\Debug\FlyweightPattern.csprojAssemblyReference.cache
+E:\大话设计模式——具体实现代码\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+E:\大话设计模式——具体实现代码\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\大话设计模式——具体实现代码\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\大话设计模式——具体实现代码\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+E:\大话设计模式——具体实现代码\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
