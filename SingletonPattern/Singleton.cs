@@ -9,7 +9,7 @@ namespace SingletonPattern
     class Singleton
     {
         private static Singleton instance;
-        private Singleton(){}
+        private Singleton() { }
         public static Singleton GetInstance()
         {
             if (instance == null)
@@ -34,6 +34,33 @@ namespace SingletonPattern
                 }
             }
             return instance;
+        }
+    }
+
+    class Singleton3
+    {
+        private Singleton3(){}
+        private static  Singleton3 instance = new Singleton3();
+        public static Singleton3 Instance
+        {
+            get { return instance; }
+        }
+    }
+
+    class Singleton4//按需创建实例
+    {
+        Singleton4() {}
+        public static Singleton4 Instance
+        {
+            get { return Nested.instance; }
+        }
+
+
+        class Nested
+        {
+            static Nested() { }
+
+            internal static readonly Singleton4 instance = new Singleton4();
         }
     }
 }
